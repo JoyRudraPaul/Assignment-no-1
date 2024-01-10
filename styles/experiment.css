@@ -1,0 +1,12 @@
+body {
+    background-image: url('../image/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+}
+.main {
+    background-image: url('../image/Vectorrr.png');
+    background-repeat: no-repeat;
+    position: center bottom  ;
+}
